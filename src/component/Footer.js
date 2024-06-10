@@ -10,7 +10,7 @@ export class Footer extends Component {
       <h4>Info</h4>
       <ul className="links">
         <li>
-          <a href="#">About Us</a>
+          <a href="#">Home</a>
         </li>
         <li>
           <a href="#">Compressions</a>
