@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https;//UzairAhmadd.github.io/newsapp/static/css/main.56b99294.css",
+    "main.js": "/https;//UzairAhmadd.github.io/newsapp/static/js/main.1c9943b6.js",
+    "static/js/453.b2157c12.chunk.js": "/https;//UzairAhmadd.github.io/newsapp/static/js/453.b2157c12.chunk.js",
+    "index.html": "/https;//UzairAhmadd.github.io/newsapp/index.html",
+    "main.56b99294.css.map": "/https;//UzairAhmadd.github.io/newsapp/static/css/main.56b99294.css.map",
+    "main.1c9943b6.js.map": "/https;//UzairAhmadd.github.io/newsapp/static/js/main.1c9943b6.js.map",
+    "453.b2157c12.chunk.js.map": "/https;//UzairAhmadd.github.io/newsapp/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56b99294.css",
+    "static/js/main.1c9943b6.js"
+  ]
+}
